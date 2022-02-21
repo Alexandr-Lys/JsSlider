@@ -1,0 +1,16 @@
+.imgSlider {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.imgSlider button {
+    margin: 10px;
+}
+
+.imgSlider img {
+    margin: 0 auto;
+    width: 70%;
+    border-radius: 5px;
+}
+
